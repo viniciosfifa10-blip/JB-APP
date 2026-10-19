@@ -4,7 +4,7 @@
  */
 window.CONFIG = {
   // Nome que aparece no topo e na mensagem do WhatsApp
-  nome: "JB Assistência Técnica",
+  nome: "JB Assistência Técnica de Celulares Delivery",
 
   // WhatsApp que recebe os orçamentos: só números, com 55 (Brasil) + DDD
   whatsapp: "5511983985827",
@@ -52,7 +52,7 @@ window.CONFIG = {
 
   // Rodapé. Deixe "" (vazio) para esconder uma linha.
   endereco: "Atendimento delivery em todas as zonas de São Paulo — vamos até você",
-  horario: "Segunda a sábado, das 9h às 19h",
+  horario: "Segunda a sábado, das 8h às 18h",
   instagram: "https://www.instagram.com/jonas.jb.1829405/",
 
   // Aviso mostrado depois de abrir o WhatsApp
